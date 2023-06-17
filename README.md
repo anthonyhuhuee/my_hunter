@@ -2,7 +2,7 @@
 # My_Hunter
 
 Epitech solo project to do a "Duck Hunt" type of game.
-
+Duck Hunt is a shooter game in which the objective is to shoot moving targets on the screen in mid-flight.
 
 
 ## Features
